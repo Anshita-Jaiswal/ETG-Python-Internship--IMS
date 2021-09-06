@@ -1,5 +1,5 @@
 # ETG-Python-Internship--IMS
-ETG Python for ML/AI Internship- Anshita Jaiswal's Inventory Management System (IMS)
+ETG Python for ML/AI Internship- Anshita Jaiswal's Inventory Management System (IMS).
 This repository is having all the codes with json files.
 This IMS is working on NoSQL based database.
 
@@ -21,5 +21,5 @@ This IMS is working on NoSQL based database.
 7. Show Cart
 8. Generate Bills
 
-File 'og-records.json' contains original records.
+File 'og-records.json' contains original records while
 File 'records1.json' contains records after the execution of code.
